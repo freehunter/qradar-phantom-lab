@@ -6,7 +6,8 @@ import syslog
 
 #This is where we set our target server and ports
 #UDP_IP = "192.168.1.196"
-UDP_IP = "10.16.20.200"
+with open('consoleip.txt') as f:
+    UDP_IP = f.readline().strip()
 UDP_PORT = 514
 while True:
    #We're going to read from a list of usernames
