@@ -1,0 +1,8 @@
+allow,PA Series Traffic,end,aged-out
+allow,PA Series Traffic,end,n/a
+allow,PA Series Traffic,end,tcp-rst-from-server
+allow,PA Series Traffic,end,tcp-fin
+deny,PA Series Traffic,drop,policy-deny
+allow,PA Series Traffic,deny,decrypt-error
+allow,PA Series Traffic,deny,policy-deny
+reset-both,PA Series Traffic,deny,policy_deny

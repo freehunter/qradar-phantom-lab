@@ -1,0 +1,2 @@
+Failed password
+Accepted keyboard-interactive/pam

@@ -1,0 +1,18 @@
+Virus found,Trojan.Gen.NPE.2,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Security risk found,Tracking Cookies,Cookie:username@boldchat.com/,Security risk,Trackware
+Virus found,SMG.Heur!gen,C:\Users\Shared\OneDrive\BACKUPS\03-31-2018\,Malware,Virus
+Virus found,Trojan.Gen.2,C:\Users\Shared\OneDrive\BACKUPS\03-31-2017\,Malware,Virus
+Virus found,Trojan.Gen.NPE.2,c:\windows\system32\windowspowershell,Malware,Virus
+Virus found,W32.Downuk,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,SONAR.MSOffice!g27,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,Infostealer.Lokibot!20,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,Backdoor.Nubpub,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,SONAR.ProcHijack!g37,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,SONAR.SuspPE!gen28,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,Trojan.Smoaler!gen6,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,W32.Rarogminer,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,Trojan.Coinminer.B,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,W32.Mysracoin,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,Trojan.Dropper!g2,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,W97M.Eplose,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus
+Virus found,Packed.Generic.522,C:\Users\Shared\AppData\Local\Microsoft\Windows\INetCache2\login[1].htm,Malware,Virus

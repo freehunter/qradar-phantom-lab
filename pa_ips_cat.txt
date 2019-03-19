@@ -1,0 +1,23 @@
+(9999),THREAT,url,alert
+HTTP OPTIONS Method(30520),THREAT,vulnerability,alert
+NetBIOS nbtstat query(31707),THREAT,vulnerability,alert
+Unknown HTTP Request Method Found(39822),THREAT,vulnerability,alert
+Virus/Win32.WGeneric.qeeyu(2499881),THREAT,virus,reset-both
+generic:appsha1.cointraffic.io(3835163),THREAT,spyware,sinkhole
+Virus/Win32.WGeneric.qimpd(2188869),THREAT,virus,reset-both
+PNG File Chunk Length Abnormal(34243),THREAT,vulnerability,alert
+HTTP GET Requests Long URI Anomaly(30800),THREAT,vulnerability,alert
+Javascript WSF HTA JSE or VBS File Sent in Email(39003),THREAT,vulnerability,alert
+Adobe PDF File With Embedded Javascript(31971),THREAT,vulnerability,alert
+DNS ANY Queries Brute Force DOS Attack(40033),THREAT,vulnerability,alert
+Microsoft Windows Registry Read Attempt(34940),THREAT,vulnerability,alert
+Microsoft Windows Registry Enumeration(30840),THREAT,vulnerability,alert
+Microsoft Office File with Macros Detected(39154),THREAT,vulnerability,alert
+Suspicious DNS Query (generic:obe-pis.foxitservice.com)(4099895),THREAT,spyware,sinkhole
+Export RSA cipher suite detected(37493),THREAT,vulnerability,alert
+HTTP Cross Site Scripting Vulnerability(34851),THREAT,vulnerability,alert
+Gh0st.Gen Command and Control Traffic(13264),THREAT,spyware,sinkhole
+Microsoft Office Excel Qsir/Qsif Record Remote Code Execution Vulnerability(33127),THREAT,vulnerability,alert
+Microsoft RPC Endpoint Mapper Detection(30845),THREAT,vulnerability,alert
+CoinHive JavaScript Detection(11850),THREAT,spyware,sinkhole
+HTTP Non-RFC Compliant Request(39143),THREAT,vulnerability,alert

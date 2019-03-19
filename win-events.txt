@@ -1,0 +1,4 @@
+4624,Audit Success,SE_ADT_LOGON_LOGON,An account was successfully logged on.
+4634,Audit Success,SE_ADT_LOGON_LOGOFF,An account was logged off.
+4776,Audit Success,SE_ADT_ACCOUNTLOGON_CREDENTIALVALIDATION,The computer attempted to validate the credentials for an account.
+4672,Audit Success,SE_ADT_LOGON_SPECIALLOGON,Special privileges assigned to new logon.

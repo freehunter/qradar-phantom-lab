@@ -1,0 +1,15 @@
+web_browsing,ghostery-collector.ghostery.com/v2/lookuptable,computer-and-internet-info
+web_browsing,torrid.com,computer-and-internet-info
+datadog,5-22-3-app.agent.datadoghq.com/,computer-and-internet-info
+outlook-web-online,outlook.office365.com/,computer-and-internet-info
+web-browsing,cdn.content.prod.cms.msn.com/singletile/summary/alias/experiencebyname/today?market=he-IL&source=appxmanifest&tenant=amp&vertical=news,internet-portals
+web-browsing,www.msftconnecttest.com,internet-portals
+trend-micro,osce12-0-en.url.trendmicro.com,text/html
+google-base,1.client-channel.google.com/,search-engines
+web-browsing,array611-prod.do.dsp.mp.microsoft.com/join/,computer-and-internet-info
+ssl,www.greensmoke.com/,government
+ssl,raw.githubusercontent.com/,shareware-and-freeware
+ssl,proxyworkerrolein3-his-eus-1.connector.his.msappproxy.net/,computer-and-internet-info
+ssl,cloud-ec-asn.amp.cisco.com/,computer-and-internet-info
+google-base,calendar.google.com/,reference-and-research
+ssl,grafana.com/,computer-and-internet-info
